@@ -1,0 +1,277 @@
+station_european_code	component_code	component_caption	component_name	component_FWD	measurement_european_group_code	measurement_unit	measurement_group_start_date	measurement_group_end_date	measurement_latest_AIRBASE	measurement_european_code	measurement_start_date	measurement_end_date	measurement_automatic	measurement_technique_principle	measurement_equipment	integration_time_frequency	calibration_unit	height_sampling_point	length_sampling_line	location_sampling_point	sampling_time	sampling_time_unit	calibration_frequency	integration_time_unit	calibration_method	calibration_description
+GR0018A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01		2011-12-31	100	2001-01-01		yes	UV fluorescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0018A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0018A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	O3 generator stopped	
+GR0018A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0018A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0018A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0018A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0110R	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	UV fluorescence	Thermo model 43c-TL SO2 analyser	1	month	3	2	free air flow	0		1	hour	compressed gases	
+GR0110R	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2010-01-01		2011-12-31	100	2010-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R			0	0		0					
+GR0110R	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Ultraviolet (UV) photometry	DASIBI	1	month	3	2	free air flow	0		1	hour	O3 generator stopped	
+GR0110R	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Thermo model 42C-TL (Trace level Nox)	1	month	3	2	free air flow	0		1	hour	compressed gases	
+GR0110R	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Thermo model 42C-TL (Trace level Nox)	1	month	3	2	courtyard	0		1	hour	compressed gases	
+GR0110R	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Thermo model 42C-TL (Trace level Nox)	1	month	3	2	free air flow	0		1	hour	compressed gases	
+GR0003A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1993-01-01	2004-12-31	2004-12-31	100	1993-01-01	2004-12-31	yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	5	2	facade of building	3	second	1	hour	compressed gases	
+GR0003A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	5	2	facade of building	0		1	day	standard mass	
+GR0003A	6	BS	Black smoke (air)	yes	100	µg/m3	1984-01-01	2004-12-31	2004-12-31	100	1984-01-01	2004-12-31	no	Reflectometry	ENVIRONMENT SA FILTROMAT COLLECTOR	1	year	5	2	facade of building	0		1	hour	black filter (reflectometry)	
+GR0003A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1993-01-01	2000-12-31	2000-12-31	100	1993-01-01	2000-12-31	yes	Chemiluminescence	DASIBI 2108 NOx analyser	1	month	5	2	facade of building	3	second	1	hour	compressed gases	
+GR0003A	8	NO2	Nitrogen dioxide (air)	yes	101	µg/m3	2001-01-01		2012-12-31	101	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	6	2	facade of building	3	second	1	hour	compressed gases	
+GR0003A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	1993-01-01		2008-12-31	100	1993-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	5	2	facade of building	3	second	1	hour	compressed gases	
+GR0003A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1993-01-01	2000-12-31	1997-12-31	100	1993-01-01	2000-12-31	yes	Non-dispersive infrared spectroscopy (NDIR)	DASIBI 3008 CO analyser	1	month	5	2	facade of building	3	second	1	hour	compressed gases	
+GR0003A	10	CO	Carbon monoxide (air)	yes	101	mg/m3	2001-01-01			101	2001-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	6	2	facade of building	3	second	1	hour	compressed gases	
+GR0003A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	1993-01-01	2000-12-31	2000-12-31	100	1993-01-01	2000-12-31	yes	Chemiluminescence	DASIBI 2108 NOx analyser	1	month	5	2	facade of building	3	second	1	hour	compressed gases	
+GR0003A	38	NO	Nitrogen monoxide (air)	no	101	µg/m3	2001-01-01		2012-12-31	101	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	6	2	facade of building	3	second	1	hour	compressed gases	
+GR0002A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1988-01-01		2012-12-31	100	1988-01-01		yes	UV fluorescence	Horiba model APSA 360E SO2 analyser		month	500	200		0		1		compressed gases	
+GR0002A	6	BS	Black smoke (air)	yes	100	µg/m3	1988-01-01	2004-12-31	2004-12-31	100	1988-01-01	2004-12-31	no	Reflectometry	ENVIRONMENT SA FILTROMAT COLLECTOR		month	500	200		0		1		black filter (reflectometry)	
+GR0002A	7	O3	Ozone (air)	yes	100	µg/m3	1988-01-01		2012-12-31	100	1988-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	5	2		0		1	hour	O3 generator stopped	
+GR0002A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1988-01-01		2012-12-31	100	1988-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser		month	5	2		0		1		compressed gases	
+GR0002A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	1988-01-01		2012-12-31	100	1988-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser		month	5	2		0		1		compressed gases	
+GR0002A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1988-01-01		2012-12-31	100	1988-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	5	2		0		1	hour	compressed gases	
+GR0002A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	1988-01-01		2012-12-31	100	1988-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser		month	5	2		0		1		compressed gases	
+GR0039A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01	2004-12-31	2004-12-31	100	2001-01-01	2004-12-31	yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0039A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0039A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	4	2	free air flow	3	second	1	hour	O3 generator stopped	
+GR0039A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	courtyard	3	second	1	hour	compressed gases	
+GR0039A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	courtyard	3	second	1	hour	compressed gases	
+GR0039A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0039A	6001	PM2.5	Particulate matter < 2.5 µm (aerosol)	yes	100	µg/m3	2007-01-01		2012-12-31	100	2007-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R			0	0		0					
+GR0033A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1900-01-01	1988-12-30	1986-12-31	100	1900-01-01	1988-12-30	yes	UV fluorescence	Thermo model 43 SO2 analyser			0	0		0					
+GR0033A	7	O3	Ozone (air)	yes	100	µg/m3	1900-01-01	1988-12-30	1984-12-31	100	1900-01-01	1988-12-30	yes	Ultraviolet (UV) photometry	Thermo model 49 O3 analyser			0	0		0					
+GR0033A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1900-01-01	1988-12-30	1986-12-31	100	1900-01-01	1988-12-30	yes	Chemiluminescence	Thermo model 14B chemiluminescence NO-NO2-Nox			0	0		0					
+GR0033A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1900-01-01	1988-12-30		100	1900-01-01	1988-12-30	yes	Non-dispersive infrared spectroscopy (NDIR)	Thermo model 48c CO analyser			0	0		0					
+GR0033A	10	CO	Carbon monoxide (air)	yes	110	mg/m3	1900-01-01	1988-12-30	1986-12-31	110	1900-01-01	1988-12-30						0	0		0					
+GR0004A	4	SPM	Total suspended particulates (aerosol)	yes	100	µg/m3	1900-01-01	1987-12-30	1988-12-31	100	1900-01-01	1987-12-30	no	Gravimetric analysis	HVS			0	0		0					
+GR0004A	6	BS	Black smoke (air)	yes	100	µg/m3	1900-01-01	1987-12-30	1989-12-31	100	1900-01-01	1987-12-30	no	Reflectometry	COLLECTOR			0	0		0					
+GR0038A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	8	2	free air flow	3	second	1	hour	compressed gases	
+GR0038A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2012-01-01		2012-12-31	100	2012-01-01		no	Gravimetric analysis	LVS			0	0		0					
+GR0038A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	8	2	free air flow	3	second	1	hour	O3 generator stopped	
+GR0038A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	8	2	free air flow	3	second	1	hour	compressed gases	
+GR0038A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	8	2	free air flow	3	second	1	hour	compressed gases	
+GR0038A	12	Pb	Lead (aerosol)	yes	100	µg/m3	2012-01-01		2012-12-31	100	2012-01-01		no	Atomic absorption spectrometry (AAS)	LVS			0	0		0					
+GR0038A	14	Cd	Cadmium (aerosol)	yes	100	ng/m3	2012-01-01		2012-12-31	100	2012-01-01		no	Atomic absorption spectrometry (AAS)	LVS			0	0		0					
+GR0038A	15	Ni	Nickel (aerosol)	yes	100	ng/m3	2012-01-01		2012-12-31	100	2012-01-01		no	Atomic absorption spectrometry (AAS)	LVS			0	0		0					
+GR0038A	18	As	Arsenic (aerosol)	yes	100	ng/m3	2012-01-01		2012-12-31	100	2012-01-01		no	Atomic absorption spectrometry (AAS)	LVS			0	0		0					
+GR0038A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	8	2	free air flow	3	second	1	hour	compressed gases	
+GR0042A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01	2004-12-31	2004-12-31	100	2001-01-01	2004-12-31	yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	6	2	free air flow	3	second	1	hour	compressed gases	
+GR0042A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01	2004-12-31	2004-12-31	100	2001-01-01	2004-12-31	yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	6	2	free air flow	3	second	1	hour	O3 generator stopped	
+GR0042A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01	2004-12-31	2004-12-31	100	2001-01-01	2004-12-31	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	6	2	free air flow	3	second	1	hour	compressed gases	
+GR0042A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01	2004-12-31	2004-12-31	100	2001-01-01	2004-12-31	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	6	2	free air flow	3	second	1	hour	compressed gases	
+GR0042A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01	2004-12-31	2004-12-31	100	2001-01-01	2004-12-31	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	6	2	free air flow	3	second	1	hour	compressed gases	
+GR0040A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01	2008-01-01	2007-12-31	100	2001-01-01	2008-01-01	yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0040A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01	2009-12-31	2009-12-31	100	2001-01-01	2009-12-31	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0040A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01	2009-12-31	2009-12-31	100	2001-01-01	2009-12-31	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0040A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01	2009-12-31	2009-12-31	100	2001-01-01	2009-12-31	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0040A	6001	PM2.5	Particulate matter < 2.5 µm (aerosol)	yes	100	µg/m3	2008-01-01	2009-12-31	2009-12-31	100	2008-01-01	2009-12-31	yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R			0	0		0					
+GR0009A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01		2003-12-31	100	2001-01-01					1	month	0	0		0		1	day	compressed gases	
+GR0009A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2005-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1		5	2		0			hour		
+GR0009A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2004-12-31	100	2001-01-01					1	year	0	0		0		1	day	unknown	
+GR0009A	7	O3	Ozone (air)	yes	101	µg/m3	2001-01-01		2002-12-31	101	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 350E O3 analyser	1		5	2	free air flow	0			hour		
+GR0009A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2004-12-31	100	2001-01-01					1	month	0	0		0		1	day	compressed gases	
+GR0009A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	2001-01-01		2004-12-31	100	2001-01-01					1	month	0	0		0		1	day	compressed gases	
+GR0009A	10	CO	Carbon monoxide (air)	yes	101	mg/m3	2001-01-01		2002-12-31	101	2001-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360CE CO analyser	1		5	2	free air flow	0			hour		
+GR0009A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2004-12-31	100	2001-01-01					1	month	0	0		0		1	day	compressed gases	
+GR0230A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2008-01-01		2011-12-31	100	2008-01-01		yes	Tapered Element Oscillating Microbalance (TEOM)	TEOM 1400A			0	0		0					
+GR0230A	7	O3	Ozone (air)	yes	100	µg/m3	2008-01-01		2011-12-31	100	2008-01-01		yes	Ultraviolet (UV) photometry	Environnement S.A. Model O342M UV Ozone Analyze			0	0		0					
+GR0230A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2008-01-01		2011-12-31	100	2008-01-01		yes	Chemiluminescence	ENVIRONMENT ZC 32M			0	0		0					
+GR0230A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2008-01-01		2011-12-31	100	2008-01-01		yes	Chemiluminescence	ENVIRONMENT ZC 32M			0	0		0					
+GR0230A	20	C6H6	Benzene (air)	yes	100	µg/m3	2008-01-01		2011-12-31	100	2008-01-01		yes	Gas chromatography with photo ionization detector	SINTECH SPECTRAS BTX GC 855 series undetermined			0	0		0					
+GR0230A	21	C6H5-CH3	Toluene (air)	no	100	µg/m3	2009-01-01		2011-12-31	100	2009-01-01		yes	Gas chromatography with photo ionization detector	SINTECH SPECTRAS BTX GC 855 series undetermined			0	0		0					
+GR0230A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2008-01-01		2011-12-31	100	2008-01-01		yes	Chemiluminescence	ENVIRONMENT ZC 32M			0	0		0					
+GR0230A	6001	PM2.5	Particulate matter < 2.5 µm (aerosol)	yes	100	µg/m3	2008-01-01		2011-12-31	100	2008-01-01		yes	Tapered Element Oscillating Microbalance (TEOM)	TEOM 1400A			0	0		0					
+GR0019A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1991-01-01		2011-12-31	100	1991-01-01		yes	UV fluorescence	Horiba model APSA 350 SO2 analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0019A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2007-01-01		2012-12-31	100	2007-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R			0	0		0					
+GR0019A	7	O3	Ozone (air)	yes	100	µg/m3	1991-01-01		2011-12-31	100	1991-01-01		yes	Ultraviolet (UV) photometry	Thermo model 49c O3 analyser	1	month	4	2	free air flow	0		1	hour	O3 generator stopped	
+GR0019A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2011-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0019A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2011-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0019A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1991-01-01		2012-12-31	100	1991-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 350 CO analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0019A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2011-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0020A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	UV fluorescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0020A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0020A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2011-12-31	100	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	4	2	free air flow	0		1	hour	O3 generator stopped	
+GR0020A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0020A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0020A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0020A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0120A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2008-01-01	2010-12-31	2010-12-31	100	2008-01-01	2010-12-31	yes	UV fluorescence	Horiba model APSA 360 SO2 analyser			0	0		0					
+GR0120A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2008-01-01		2012-12-31	100	2008-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R			0	0		0					
+GR0120A	7	O3	Ozone (air)	yes	100	µg/m3	2008-01-01		2012-12-31	100	2008-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser			0	0		0					
+GR0120A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2008-01-01		2012-12-31	100	2008-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser			0	0		0					
+GR0120A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2008-01-01		2012-12-31	100	2008-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser			0	0		0					
+GR0120A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2008-01-01		2012-12-31	100	2008-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser			0	0		0					
+GR0010A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1986-01-01		2011-12-31	100	1986-01-01		yes	UV fluorescence	Horiba model APSA 300 SO2 analyser			500	200		0				compressed gases	
+GR0010A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2011-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R			0	0		0					
+GR0010A	7	O3	Ozone (air)	yes	100	µg/m3	1986-01-01		2012-12-31	100	1986-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser			500	200		0				compressed gases	
+GR0010A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1986-01-01		2012-12-31	100	1986-01-01		yes	Chemiluminescence	Horiba model APNA 300 NOx analyser			500	200		0				compressed gases	
+GR0010A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	DASIBI 2108 NOx analyser			0	0		0					
+GR0010A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1986-01-01		2012-12-31	100	1986-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 300 CO analyser			500	200		0				compressed gases	
+GR0010A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	DASIBI 2108 NOx analyser			0	0		0					
+GR0027A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1984-01-01	2010-12-31	2010-12-31	100	1984-01-01	2010-12-31	yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	14	2	free air flow	0		1	hour	compressed gases	
+GR0027A	7	O3	Ozone (air)	yes	100	µg/m3	1984-01-01		2012-12-31	100	1984-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	14	2	free air flow	0		1	hour	O3 generator stopped	
+GR0027A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1984-01-01		2012-12-31	100	1984-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	14	2	free air flow	0		1	hour	compressed gases	
+GR0027A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	1984-01-01		2012-12-31	100	1984-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	14	2	free air flow	0		1	hour	compressed gases	
+GR0027A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	1984-01-01		2012-12-31	100	1984-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	14	2	free air flow	0		1	hour	compressed gases	
+GR0035A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0035A	7	O3	Ozone (air)	yes	100	µg/m3	1994-01-01		2012-12-31	100	1994-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser		month	4	2		0		1		O3 generator stopped	
+GR0035A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1994-01-01		2012-12-31	100	1994-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser		month	4	2		0		1		compressed gases	
+GR0035A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	1994-01-01		2012-12-31	100	1994-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser		month	0	0		0		1		compressed gases	
+GR0035A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1994-01-01	2004-12-31	2004-12-31	100	1994-01-01	2004-12-31	yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser		month	4	2		0		1		compressed gases	
+GR0035A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	1994-01-01		2012-12-31	100	1994-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser		month	4	2		0		1		compressed gases	
+GR0035A	6001	PM2.5	Particulate matter < 2.5 µm (aerosol)	yes	100	µg/m3	2005-01-01		2012-12-31	100	2005-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	5	2	courtyard	0		1	hour	standard mass	
+GR0022A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1990-01-01	2004-12-31	2004-12-31	100	1990-01-01	2004-12-31	yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0022A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0022A	7	O3	Ozone (air)	yes	100	µg/m3	1990-01-01		2012-12-31	100	1990-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	4	2	free air flow	0		1	hour	O3 generator stopped	
+GR0022A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1990-01-01		2012-12-31	100	1990-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0022A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	1990-01-01		2012-12-31	100	1990-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0022A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1990-01-01		2012-12-31	100	1990-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0022A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	1990-01-01		2012-12-31	100	1990-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2		0		1	hour	compressed gases	
+GR0017A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1984-01-01		1984-12-31	100	1984-01-01		no	UNKNOWN	IMPINGER HYDROGEN PEROXIDE TCM			0	0		0					
+GR0017A	1	SO2	Sulphur dioxide (air)	yes	110	µg/m3	1984-01-01			110	1984-01-01					1	month	0	0		0		1	day	permuation tube	
+GR0017A	4	SPM	Total suspended particulates (aerosol)	yes	100	µg/m3	1984-01-01		1984-12-31	100	1984-01-01		no	Gravimetric analysis	HVS			0	0		0					
+GR0017A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1984-01-01		1984-11-30	100	1984-01-01		no	UNKNOWN	IMPINGER TRIETHYLONAMINE			0	0		0					
+GR0017A	8	NO2	Nitrogen dioxide (air)	yes	110	µg/m3	1984-01-01			110	1984-01-01					1	month	0	0		0		1	month	compressed gases	
+GR0031A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2000-01-01	2010-12-31	2010-12-31	100	2000-01-01	2010-12-31	yes	UV fluorescence	Horiba model APSA 360E SO2 analyser			0	0		0					
+GR0031A	6	BS	Black smoke (air)	yes	100	µg/m3	1984-01-01	2004-12-31	2004-12-31	100	1984-01-01	2004-12-31	no	Reflectometry	ENVIRONMENT SA FILTROMAT COLLECTOR		month	400	200		0		1		black filter (reflectometry)	
+GR0031A	6	BS	Black smoke (air)	yes	110	µg/m3	1900-01-01		1995-12-31	110	1900-01-01		no	Reflectometry	COLLECTOR			0	0		0					
+GR0031A	7	O3	Ozone (air)	yes	100	µg/m3	2000-01-01		2012-12-31	100	2000-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser			0	0		0					
+GR0031A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2000-01-01		2012-12-31	100	2000-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser			0	0		0					
+GR0031A	8	NO2	Nitrogen dioxide (air)	yes	110	µg/m3	1984-01-01			110	1984-01-01		yes	Chemiluminescence	Thermo model 14B/E chemiluminescence NO-NO2-Nox		month	400	200		0		1		compressed gases	
+GR0031A	8	NO2	Nitrogen dioxide (air)	yes	120	µg/m3	1900-01-01		1984-12-31	120	1900-01-01		yes	Chemiluminescence	Thermo model 43 SO2 analyser			0	0		0					
+GR0031A	9	NOX	Nitrogen oxides (air)	yes	110	µg NO2/m3	2001-01-01		2008-12-31	110	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0031A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1984-01-01		2012-12-31	100	1984-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser		month	400	200		0		1		compressed gases	
+GR0031A	10	CO	Carbon monoxide (air)	yes	110	mg/m3	1900-01-01		1995-12-31	110	1900-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Thermo model 48c CO analyser			0	0		0					
+GR0031A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2000-01-01		2012-12-31	100	2000-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser		month	400	200		0		1		compressed gases	
+GR0031A	38	NO	Nitrogen monoxide (air)	no	120	µg/m3	1984-01-01		1989-12-31	120	1984-01-01		yes	Chemiluminescence	THERMO ENVIRONMENTAL INSTRUMENTS			0	0		0					
+GR0045A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	4	2	free air flow	0		1	hour	O3 generator stopped	
+GR0045A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0045A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0045A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0119A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2008-01-01		2011-12-31	100	2008-01-01		yes	UV fluorescence	Horiba model APSA 360E SO2 analyser			0	0		0					
+GR0119A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2008-01-01		2011-12-31	100	2008-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R			0	0		0					
+GR0119A	7	O3	Ozone (air)	yes	100	µg/m3	2008-01-01		2012-12-31	100	2008-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser			0	0		0					
+GR0119A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2008-01-01		2012-12-31	100	2008-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser			0	0		0					
+GR0119A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2008-01-01		2012-12-31	100	2008-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser			0	0		0					
+GR0119A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2008-01-01		2012-12-31	100	2008-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser			0	0		0					
+GR0047A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0047A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	4	2	free air flow	0		1	hour	O3 generator stopped	
+GR0047A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	week	4	2	free air flow	0		1	hour	compressed gases	
+GR0047A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0047A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0032A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	UV fluorescence	Thermo model 43 SO2 analyser	1	month	8	2	facade of building	0		1	hour	O3 generator stopped	
+GR0032A	1	SO2	Sulphur dioxide (air)	yes	110	µg/m3	2001-01-01		2012-12-31	110	2001-01-01		yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	8	2	facade of building	3	second	1	hour	compressed gases	
+GR0032A	6	BS	Black smoke (air)	yes	100	µg/m3	1984-01-01	2004-12-31	2004-12-31	100	1984-01-01	2004-12-31	no	Reflectometry	ENVIRONMENT SA FILTROMAT COLLECTOR		month	800	200		0		1		black filter (reflectometry)	
+GR0032A	6	BS	Black smoke (air)	yes	110	µg/m3	1900-01-01		1995-12-31	110	1900-01-01		no	Reflectometry	COLLECTOR			0	0		0					
+GR0032A	7	O3	Ozone (air)	yes	100	µg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	Ultraviolet (UV) photometry	Thermo model 49 O3 analyser	1	month	8	2	facade of building	0		1	hour	O3 generator stopped	
+GR0032A	7	O3	Ozone (air)	yes	110	µg/m3	2001-01-01		2012-12-31	110	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	8	2	facade of building	3	second	1	hour	compressed gases	
+GR0032A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1984-01-01		2012-12-31	100	1984-01-01		yes	Chemiluminescence	Thermo model 14B chemiluminescence NO-NO2-Nox			0	0		0					
+GR0032A	8	NO2	Nitrogen dioxide (air)	yes	110	µg/m3	2001-01-01		2006-12-31	110	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	8	2		0		1	hour	compressed gases	
+GR0032A	9	NOX	Nitrogen oxides (air)	yes	110	µg NO2/m3	2001-01-01		2008-12-31	110	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	8	2	facade of building	3	second	1	hour	compressed gases	
+GR0032A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	Non-dispersive infrared spectroscopy (NDIR)	Thermo model 48c CO analyser		month	800	200		0		1		compressed gases	
+GR0032A	10	CO	Carbon monoxide (air)	yes	110	mg/m3	1900-01-01		2012-12-31	110	1900-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Thermo model 48c CO analyser			0	0		0					
+GR0032A	10	CO	Carbon monoxide (air)	yes	120	mg/m3	1900-01-01		1995-12-31	120	1900-01-01							0	0		0					
+GR0032A	10	CO	Carbon monoxide (air)	yes	121	mg/m3	2001-01-01		2002-12-31	121	2001-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	8	2	facade of building	3	second	1	hour	compressed gases	
+GR0032A	20	C6H6	Benzene (air)	yes	100	µg/m3	2004-04-01		2012-12-31	100	2004-04-01		yes	Gas chromatography with photo ionization detector	SINTECH SPECTRAS BTX GC 855 series undetermined	1		7	0	kerbside	1	hour		hour		
+GR0032A	21	C6H5-CH3	Toluene (air)	no	100	µg/m3	2005-01-01		2012-12-31	100	2005-01-01		yes	Gas chromatography with photo ionization detector	SINTECH SPECTRAS BTX GC 855 series undetermined			0	0		0					
+GR0032A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	Chemiluminescence	Thermo model 14B/E chemiluminescence NO-NO2-Nox	1	month	8	2	facade of building	0		1	hour	compressed gases	
+GR0032A	38	NO	Nitrogen monoxide (air)	no	110	µg/m3	2001-01-01		2012-12-31	110	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	8	2	facade of building	3	second	1	hour	compressed gases	
+GR0032A	38	NO	Nitrogen monoxide (air)	no	120	µg/m3	1984-01-01	1989-12-31	1989-12-31	120	1984-01-01	1989-12-31	yes	Chemiluminescence	THERMO ELECTRON INSTRUMENTS			0	0		0					
+GR0032A	431	C6H5-C2H5	Ethyl benzene (air)	no	100	µg/m3	2005-01-01		2012-12-31	100	2005-01-01		yes	Gas chromatography with photo ionization detector	SINTECH SPECTRAS BTX GC 855 series undetermined			0	0		0					
+GR0032A	464	m,p-C6H4(CH3)2	m,p-Xylene (air)	no	100	µg/m3	2005-01-01		2012-12-31	100	2005-01-01		yes	Gas chromatography with photo ionization detector	SINTECH SPECTRAS BTX GC 855 series undetermined			0	0		0					
+GR0032A	482	o-C6H4-(CH3)2	o-Xylene (air)	no	100	µg/m3	2005-01-01		2012-12-31	100	2005-01-01		yes	Gas chromatography with photo ionization detector	SINTECH SPECTRAS BTX GC 855 series undetermined			0	0		0					
+GR0008A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01		2011-12-31	100	2001-01-01		yes	UV fluorescence	Horiba model APSA 360 SO2 analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0008A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0008A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	4	2	free air flow	0		1	hour	O3 generator stopped	
+GR0008A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1900-01-01		2012-12-31	100	1900-01-01					1	month	0	0		0		1	day	compressed gases	
+GR0008A	8	NO2	Nitrogen dioxide (air)	yes	101	µg/m3	2001-01-01		2008-12-31	101	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0008A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	1900-01-01		2004-12-31	100	1900-01-01					1	month	0	0		0		1	day	compressed gases	
+GR0008A	9	NOX	Nitrogen oxides (air)	yes	101	µg NO2/m3	2001-01-01		2008-12-31	101	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0008A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1900-01-01		2012-12-31	100	1900-01-01					1	month	0	0		0		1	day	compressed gases	
+GR0008A	10	CO	Carbon monoxide (air)	yes	101	mg/m3	2001-01-01		2007-12-31	101	2001-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0008A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	1900-01-01		2012-12-31	100	1900-01-01					1	month	0	0		0		1	day	compressed gases	
+GR0008A	38	NO	Nitrogen monoxide (air)	no	101	µg/m3	2001-01-01		2001-12-31	101	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0048A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01	2004-12-31	2011-12-31	100	2001-01-01	2004-12-31	yes	UV fluorescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0048A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01	2004-12-31	2011-12-31	100	2001-01-01	2004-12-31	yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2		0		1	hour	standard mass	
+GR0048A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01	2004-12-31	2011-12-31	100	2001-01-01	2004-12-31	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2		0		1	hour	compressed gases	
+GR0048A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01	2004-12-31	2010-12-31	100	2001-01-01	2004-12-31	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0048A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	2001-01-01	2004-12-31	2011-12-31	100	2001-01-01	2004-12-31	yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	4	2		0		1	hour	compressed gases	
+GR0048A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2011-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0028A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1989-01-01	2000-12-31	2000-12-31	100	1989-01-01	2000-12-31	yes	UV fluorescence	DASIBI 4108 SO2 analyser		month	4	2		0		1		compressed gases	
+GR0028A	1	SO2	Sulphur dioxide (air)	yes	101	µg/m3	2001-01-01		2012-12-31	101	2001-01-01		yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	5	2	free air flow	3	second	1	hour	compressed gases	
+GR0028A	6	BS	Black smoke (air)	yes	100	µg/m3	1989-01-01	2004-12-31	2004-12-31	100	1989-01-01	2004-12-31	no	Reflectometry	ENVIRONMENT SA FILTROMAT COLLECTOR	1		6	2	free air flow	0			day	black filter (reflectometry)	
+GR0028A	7	O3	Ozone (air)	yes	100	µg/m3	1989-01-01	2000-12-31	2000-12-31	100	1989-01-01	2000-12-31	yes	Ultraviolet (UV) photometry	DASIBI 1008 O3 analyser		month	4	2		0		1		compressed gases	
+GR0028A	7	O3	Ozone (air)	yes	101	µg/m3	2001-01-01		2012-12-31	101	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	5	2	free air flow	3	second	1	hour	O3 generator stopped	
+GR0028A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1989-01-01	2000-12-31	2000-12-31	100	1989-01-01	2000-12-31	yes	Chemiluminescence	DASIBI 2108 NOx analyser		month	4	2		0		1		compressed gases	
+GR0028A	8	NO2	Nitrogen dioxide (air)	yes	101	µg/m3	2001-01-01		2012-12-31	101	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	5	2	free air flow	3	second	1	hour	compressed gases	
+GR0028A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	1989-01-01	2000-12-31		100	1989-01-01	2000-12-31	yes	Chemiluminescence	DASIBI 2108 NOx analyser		month	4	2		0		1		compressed gases	
+GR0028A	9	NOX	Nitrogen oxides (air)	yes	101	µg NO2/m3	2001-01-01		2008-12-31	101	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	5	2	free air flow	3	second	1	hour	compressed gases	
+GR0028A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1989-01-01	2000-12-31	2000-12-31	100	1989-01-01	2000-12-31	yes	Non-dispersive infrared spectroscopy (NDIR)	DASIBI 3008 CO analyser		month	400	200		0		1		compressed gases	
+GR0028A	10	CO	Carbon monoxide (air)	yes	101	mg/m3	2001-01-01		2012-12-31	101	2001-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	5	2	free air flow	3	second	1	hour	compressed gases	
+GR0028A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	1989-01-01	2000-12-31	2000-12-31	100	1989-01-01	2000-12-31	yes	Chemiluminescence	DASIBI 2108 NOx analyser		month	4	2		0		1		compressed gases	
+GR0028A	38	NO	Nitrogen monoxide (air)	no	101	µg/m3	2001-01-01		2012-12-31	101	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	5	2	free air flow	3	second	1	hour	compressed gases	
+GR0030A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	UV fluorescence	Thermo model 43 SO2 analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0030A	1	SO2	Sulphur dioxide (air)	yes	110	µg/m3	2001-01-01		2012-12-31	110	2001-01-01		yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	4	2	courtyard	3	second	1	hour	compressed gases	
+GR0030A	1	SO2	Sulphur dioxide (air)	yes	120	µg/m3	1900-01-01			120	1900-01-01		no	Spectrophotometry	UNKNOWN			0	0		0					
+GR0030A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0030A	6	BS	Black smoke (air)	yes	100	µg/m3	1984-01-01		1997-12-31	100	1984-01-01		no	Reflectometry	ENVIRONMENT SA FILTROMAT COLLECTOR	1	year	4	2	free air flow	0		1	day	black filter (reflectometry)	
+GR0030A	6	BS	Black smoke (air)	yes	110	µg/m3	1984-01-01	1995-12-31	1995-12-31	110	1984-01-01	1995-12-31	no	Reflectometry	COLLECTOR			4	2		0					
+GR0030A	7	O3	Ozone (air)	yes	100	µg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	Ultraviolet (UV) photometry	Thermo model 49 O3 analyser	1	month	4	2	free air flow	3	second	1	hour	O3 generator stopped	
+GR0030A	7	O3	Ozone (air)	yes	110	µg/m3	2001-01-01		2012-12-31	110	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	4	2	free air flow	3	second	1	hour	O3 generator stopped	
+GR0030A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	Chemiluminescence	Thermo model 14B chemiluminescence NO-NO2-Nox		month	4	2		0		1		compressed gases	
+GR0030A	8	NO2	Nitrogen dioxide (air)	yes	110	µg/m3	2001-01-01		2012-12-31	110	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0030A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2008-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0030A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	Non-dispersive infrared spectroscopy (NDIR)	Thermo model 48c CO analyser	1	month	4	2	free air flow	0		1	hour	compressed gases	
+GR0030A	10	CO	Carbon monoxide (air)	yes	110	mg/m3	2001-01-01		2012-12-31	110	2001-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0030A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	Chemiluminescence	Thermo model 14B/E chemiluminescence NO-NO2-Nox		month	4	2		0		1		compressed gases	
+GR0030A	38	NO	Nitrogen monoxide (air)	no	110	µg/m3	2001-01-01		2012-12-31	110	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0030A	6001	PM2.5	Particulate matter < 2.5 µm (aerosol)	yes	100	µg/m3	2005-01-01		2012-12-31	100	2005-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0041A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01	2008-01-01	2007-12-31	100	2001-01-01	2008-01-01	yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	10	2	facade of building	3	second	1	hour	compressed gases	
+GR0041A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01	2008-01-01	2007-12-31	100	2001-01-01	2008-01-01	yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	10	2	facade of building	3	second	1	hour	O3 generator stopped	
+GR0041A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01	2008-01-01	2007-12-31	100	2001-01-01	2008-01-01	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	10	2	facade of building	3	second	1	hour	compressed gases	
+GR0041A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01	2008-01-01	2007-12-31	100	2001-01-01	2008-01-01	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	10	2	facade of building	3	second	1	hour	compressed gases	
+GR0041A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01	2008-01-01	2005-12-31	100	2001-01-01	2008-01-01	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	10	2	facade of building	3	second	1	hour	compressed gases	
+GR0012A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1994-01-01			100	1994-01-01		yes	UV fluorescence	DASIBI 4108 SO2 analyser			400	200		0				compressed gases	
+GR0012A	1	SO2	Sulphur dioxide (air)	yes	110	µg/m3	1984-01-01		1984-11-30	110	1984-01-01							0	0		0					
+GR0012A	4	SPM	Total suspended particulates (aerosol)	yes	100	µg/m3	1994-01-01			100	1994-01-01		yes	Beta ray attenuation	WEDDING		month	400	0		0		1		flow rate check	
+GR0012A	4	SPM	Total suspended particulates (aerosol)	yes	110	µg/m3	1984-01-01		1984-11-30	110	1984-01-01		no	Gravimetric analysis	HVS			0	0		0					
+GR0046A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	UV fluorescence	Horiba model APNA 360 NOx analyser	1	month	6	2	free air flow	0		1	hour	compressed gases	
+GR0046A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	6	2	free air flow	0		1	hour	standard mass	
+GR0046A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	6	2	free air flow	0		1	hour	O3 generator stopped	
+GR0046A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	6	2	free air flow	0		1	hour	compressed gases	
+GR0046A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	6	2	free air flow	0		1	hour	compressed gases	
+GR0046A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	6	2	free air flow	0		1	hour	compressed gases	
+GR0046A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	6	2	free air flow	0		1	hour	compressed gases	
+GR0037A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0037A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	4	2	free air flow	3	second	1	hour	O3 generator stopped	
+GR0037A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0037A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0037A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0044A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01		2011-12-31	100	2001-01-01		yes	UV fluorescence	Horiba model APNA 360 NOx analyser	1	month	35	2	free air flow	0		1	hour	compressed gases	
+GR0044A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	35	2	free air flow	0		1	hour	O3 generator stopped	
+GR0044A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	35	2	free air flow	0		1	hour	compressed gases	
+GR0044A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	35	2	free air flow	0		1	hour	compressed gases	
+GR0044A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	35	2	free air flow	0		1	hour	compressed gases	
+GR0001A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1985-01-01	2010-12-31	2010-12-31	100	1985-01-01	2010-12-31	yes	UV fluorescence	DASIBI 4108 SO2 analyser		month	1000	200		0		1		compressed gases	
+GR0001A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01		2012-12-31	100	2001-01-01		yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R			0	0		0				standard mass	
+GR0001A	7	O3	Ozone (air)	yes	100	µg/m3	1985-01-01	2010-12-31	2010-12-31	100	1985-01-01	2010-12-31	yes	Ultraviolet (UV) photometry	DASIBI 1008 O3 analyser		month	1000	200		0		1		compressed gases	
+GR0001A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1985-01-01	2010-12-31	2010-12-31	100	1985-01-01	2010-12-31	yes	Chemiluminescence	DASIBI 2108 NOx analyser		month	1000	200		0		1		compressed gases	
+GR0001A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	1985-01-01	2010-12-31	2010-12-31	100	1985-01-01	2010-12-31	yes	Chemiluminescence	DASIBI 2108 NOx analyser		month	1000	200		0		1		compressed gases	
+GR0001A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1985-01-01	2010-12-31	2010-12-31	100	1985-01-01	2010-12-31	yes	Non-dispersive infrared spectroscopy (NDIR)	DASIBI 3008 CO analyser		month	1000	200		0		1		compressed gases	
+GR0001A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	1985-01-01	2010-12-31	2010-12-31	100	1985-01-01	2010-12-31	yes	Chemiluminescence	DASIBI 2108 NOx analyser		month	1000	200		0		1		compressed gases	
+GR0029A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	UV fluorescence	DASIBI 4108 SO2 analyser	1	month	6	2		0		1	hour	compressed gases	
+GR0029A	1	SO2	Sulphur dioxide (air)	yes	101	µg/m3	2001-01-01		2010-12-31	101	2001-01-01		yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	6	2	facade of building	3	second	1	hour	compressed gases	
+GR0029A	7	O3	Ozone (air)	yes	100	µg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	Ultraviolet (UV) photometry	Thermo model 49 O3 analyser	1	month	6	2		0		1	hour	O3 generator stopped	
+GR0029A	7	O3	Ozone (air)	yes	101	µg/m3	2001-01-01		2012-12-31	101	2001-01-01		yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	6	2	facade of building	3	second	1	hour	O3 generator stopped	
+GR0029A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	Chemiluminescence	DASIBI 2108 NOx analyser	1	month	6	2	facade of building	0		1	hour	compressed gases	
+GR0029A	8	NO2	Nitrogen dioxide (air)	yes	101	µg/m3	2001-01-01		2012-12-31	101	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	6	2	facade of building	3	second	1	hour	compressed gases	
+GR0029A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	1984-01-01	2000-12-31		100	1984-01-01	2000-12-31	yes	Chemiluminescence	DASIBI 2108 NOx analyser		month	6	2		0		1		compressed gases	
+GR0029A	9	NOX	Nitrogen oxides (air)	yes	101	µg NO2/m3	2001-01-01		2008-12-31	101	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	6	2	facade of building	3	second	1	hour	compressed gases	
+GR0029A	10	CO	Carbon monoxide (air)	yes	100	mg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	Non-dispersive infrared spectroscopy (NDIR)	Thermo model 48c CO analyser	1	month	6	2	facade of building	0		1	hour	compressed gases	
+GR0029A	10	CO	Carbon monoxide (air)	yes	101	mg/m3	2001-01-01		2012-12-31	101	2001-01-01		yes	Non-dispersive infrared spectroscopy (NDIR)	Horiba model APMA 360 CO analyser	1	month	6	2	facade of building	3	second	1	hour	compressed gases	
+GR0029A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	1984-01-01	2000-12-31	2000-12-31	100	1984-01-01	2000-12-31	yes	Chemiluminescence	DASIBI 2108 NOx analyser	1	month	4	2	facade of building	0		1	hour	compressed gases	
+GR0029A	38	NO	Nitrogen monoxide (air)	no	101	µg/m3	2001-01-01		2012-12-31	101	2001-01-01		yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	6	2	facade of building	3	second	1	hour	compressed gases	
+GR0043A	1	SO2	Sulphur dioxide (air)	yes	100	µg/m3	2001-01-01	2004-12-31	2004-12-31	100	2001-01-01	2004-12-31	yes	UV fluorescence	Horiba model APSA 360E SO2 analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0043A	5	PM10	Particulate matter < 10 µm (aerosol)	yes	100	µg/m3	2001-01-01	2008-01-01	2007-12-31	100	2001-01-01	2008-01-01	yes	Beta ray attenuation	Thermo Andersen ESM FH 62 I-R	1	month	4	2	free air flow	0		1	hour	standard mass	
+GR0043A	7	O3	Ozone (air)	yes	100	µg/m3	2001-01-01	2008-01-01	2007-12-31	100	2001-01-01	2008-01-01	yes	Ultraviolet (UV) photometry	Horiba model APOA 300 O3 analyser	1	month	4	2	free air flow	3	second	1	hour	O3 generator stopped	
+GR0043A	8	NO2	Nitrogen dioxide (air)	yes	100	µg/m3	2001-01-01	2008-01-01	2007-12-31	100	2001-01-01	2008-01-01	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0043A	9	NOX	Nitrogen oxides (air)	yes	100	µg NO2/m3	2001-01-01	2008-01-01	2007-12-31	100	2001-01-01	2008-01-01	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	
+GR0043A	38	NO	Nitrogen monoxide (air)	no	100	µg/m3	2001-01-01	2008-01-01	2005-12-31	100	2001-01-01	2008-01-01	yes	Chemiluminescence	Horiba model APNA 360 NOx analyser	1	month	4	2	free air flow	3	second	1	hour	compressed gases	

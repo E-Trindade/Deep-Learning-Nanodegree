@@ -1,0 +1,38 @@
+station_european_code	station_local_code	country_iso_code	country_name	station_name	station_start_date	station_end_date	type_of_station	station_ozone_classification	station_type_of_area	station_subcat_rural_back	street_type	station_longitude_deg	station_latitude_deg	station_altitude	station_city	lau_level1_code	lau_level2_code	lau_level2_name	EMEP_station
+GR0018A	201	GR	Greece	AGIA SOFIA	2001-01-01		Traffic		urban		Wide street: L/H > 1.5	22.945288	40.633774	27	THESSALONIKI				no
+GR0110R	110	GR	Greece	ALIARTOS	1987-01-01		Background	rural	rural	regional	Wide street: L/H > 1.5	23.110268	38.375248	110	ALIARTOS				yes
+GR0003A	109	GR	Greece	ARISTOTELOUS	1984-01-01		Traffic		urban		Canyon street: L/H < 1.5	23.727628	37.988028	95	ATHENS				no
+GR0002A	103	GR	Greece	ATHINAS	1988-01-01		Traffic	urban	urban		Canyon street: L/H < 1.5	23.726843	37.978207	100	ATHENS				no
+GR0039A	115	GR	Greece	Agia PARASKEVI	2001-01-01		Background	suburban	suburban		Wide street: L/H > 1.5	23.819418	37.995106	290	AGIA PARASKEVI				no
+GR0033A		GR	Greece	Aspropyrgos	1987-01-01	1988-12-30	Unknown		suburban		Unknown	23.531958	38.051666	10	ATHENS				no
+GR0004A		GR	Greece	Drapetsona	1984-01-01	1987-12-30	Unknown		suburban		Unknown	23.640005	37.941944	14	ATHENS				no
+GR0038A	114	GR	Greece	Elefsina	2001-01-01		Industrial	urban	urban		Wide street: L/H > 1.5	23.538446	38.051350	20	ELEFSINA				no
+GR0042A	118	GR	Greece	GALATSI	2001-01-01	2004-12-31	Background		urban		Canyon street: L/H < 1.5	23.748205	38.020287	154	GALATSI				no
+GR0040A	116	GR	Greece	GOUDI	2001-01-01	2009-12-31	Traffic		urban		Wide street: L/H > 1.5	23.767429	37.984146	155	ATHENS				no
+GR0009A		GR	Greece	HERAKLION	2001-01-01		Traffic		urban		Wide street: L/H > 1.5	25.080011	35.332500	10	HERACLION				no
+GR0230A	230	GR	Greece	IOANNINA	2008-01-01		Background	suburban	suburban			20.850000	39.619999	485	IOANNINA				no
+GR0019A	204	GR	Greece	KALAMARIA	1986-01-01		Traffic		suburban		Wide street: L/H > 1.5	22.959303	40.578917	60	KALAMARIA				no
+GR0020A	202	GR	Greece	KORDELIO	2001-01-01		Industrial	urban	urban		Wide street: L/H > 1.5	22.893438	40.673550	30	ELETHERIO-KORDELIO				no
+GR0120A	120	GR	Greece	KOROPI	2008-01-01		Background		suburban			23.879023	37.901306	140	KOROPI				no
+GR0010A		GR	Greece	LARISA	2001-01-01		Traffic		urban			22.453337	39.667500	5	LARISSA				no
+GR0027A	106	GR	Greece	LIOSIA	1984-01-01		Background	suburban	suburban		Wide street: L/H > 1.5	23.697842	38.076814	165	ANO LIOSIA				no
+GR0035A	112	GR	Greece	LYKOVRISI	1994-01-01		Background	suburban	suburban		Wide street: L/H > 1.5	23.776886	38.069633	210	LYKOVRISI				no
+GR0022A	107	GR	Greece	MAROUSI	1990-01-01		Traffic	urban	urban		Wide street: L/H > 1.5	23.787357	38.030838	170	AMAROUSSIO				no
+GR0017A		GR	Greece	MEGALOPOLI	1984-01-01		Industrial		urban			22.250000	37.250000	750	MEGALOPOLI				no
+GR0031A	105	GR	Greece	NEA SMIRNI	1984-01-01		Background	urban	urban		Wide street: L/H > 1.5	23.713009	37.931995	50	NEA SMYRNI				no
+GR0045A	206	GR	Greece	NEOCHOROUDA	2001-01-01		Background	suburban	suburban		Wide street: L/H > 1.5	22.876231	40.739842	229	KALITHEA				no
+GR0119A	119	GR	Greece	OINOFYTA	2008-01-01		Industrial		urban			23.638914	38.306217	100	OINOFYTA				no
+GR0047A	208	GR	Greece	PANORAMA	2001-01-01		Background	suburban	suburban		Wide street: L/H > 1.5	23.031681	40.588931	363	PANORAMA				no
+GR0032A	101	GR	Greece	PATISION	1984-01-01		Traffic	urban	urban		Canyon street: L/H < 1.5	23.733047	37.999458	105	ATHENS				no
+GR0008A	301	GR	Greece	PATRA-1	2001-01-01		Traffic		urban		Wide street: L/H > 1.5	21.738430	38.253098	16	PATRA				no
+GR0048A	302	GR	Greece	PATRA-2	2001-01-01		Traffic		urban		Wide street: L/H > 1.5	21.735897	38.245975	19	PATRA				no
+GR0028A	108	GR	Greece	PERISTERI	1989-01-01		Background	urban	urban		Wide street: L/H > 1.5	23.688354	38.020805	80	PERISTERI				no
+GR0030A	102	GR	Greece	PIREAUS-1	1984-01-01		Traffic	urban	urban		Wide street: L/H > 1.5	23.647511	37.943287	20	PIREAS				no
+GR0041A	117	GR	Greece	PIREAUS-2	2001-01-01	2008-01-01	Background	urban	urban		Canyon street: L/H < 1.5	23.652685	37.941971	25	PIREAS				no
+GR0012A		GR	Greece	Ptolemaida - Center of seed production	1984-01-01		Industrial		urban			21.832516	40.516666	4	PTOLEMAIDA				no
+GR0046A	207	GR	Greece	SINDOS	2001-01-01		Industrial	urban	urban		Wide street: L/H > 1.5	22.802366	40.657845	14	ECHEDORO				no
+GR0037A	113	GR	Greece	THRAKOMAKEDONES	2001-01-01		Background	suburban	suburban		Wide street: L/H > 1.5	23.758183	38.143524	550	THRACOMAKEDONES				no
+GR0044A	205	GR	Greece	UNIVERSITY	2001-01-01		Traffic	urban	urban		Wide street: L/H > 1.5	22.956703	40.633575	55	THESSALONIKI				no
+GR0001A		GR	Greece	VOLOS	1999-01-01		Traffic		urban		Wide street: L/H > 1.5	22.943064	39.366386	31	VOLOS				no
+GR0029A	104	GR	Greece	VOTANIKOS	1984-01-01		Industrial	suburban	suburban		Wide street: L/H > 1.5	23.706789	37.983627	40	ATHENS				no
+GR0043A	119	GR	Greece	ZOGRAFOU	2001-01-01	2008-01-01	Background	suburban	suburban		Canyon street: L/H < 1.5	23.786728	37.969603	245	ZOGRAFOS				no
